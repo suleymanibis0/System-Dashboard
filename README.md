@@ -40,7 +40,7 @@ python main.py
 ```
 
 ## EXE Olarak İndirme
-Kodlarla uğraşmak istemiyorsanız, [Releases](https://www.google.com/search?q=https://github.com/suleymanibis0/System-Dashboard/releases)kısmından son sürümü .exe olarak indirebilirsiniz.
+Kodlarla uğraşmak istemiyorsanız, [Releases](https://www.google.com/search?q=https://github.com/suleymanibis0/System-Dashboard/releases) kısmından son sürümü .exe olarak indirebilirsiniz.
 
 ## ⚙️ Kullanılan Teknolojiler
 -> Python: Ana programlama dili.
