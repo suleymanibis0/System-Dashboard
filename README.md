@@ -40,7 +40,7 @@ python main.py
 ```
 
 ## EXE Olarak İndirme
-Kodlarla uğraşmak istemiyorsanız, Releases[https://www.google.com/search?q=https://github.com/suleymanibis0/System-Dashboard/releases] kısmından son sürümü .exe olarak indirebilirsiniz.
+Kodlarla uğraşmak istemiyorsanız, Releases(https://www.google.com/search?q=https://github.com/suleymanibis0/System-Dashboard/releases) kısmından son sürümü .exe olarak indirebilirsiniz.
 
 ## ⚙️ Kullanılan Teknolojiler
 -> Python: Ana programlama dili.
@@ -52,14 +52,14 @@ Kodlarla uğraşmak istemiyorsanız, Releases[https://www.google.com/search?q=ht
 -> ctypes: Windows görev çubuğu ikon entegrasyonu için.
 
 ## 🤝 Katkıda Bulunma
-Bu projeyi Fork'layın.
+1. Bu projeyi Fork'layın.
 
-Yeni bir özellik dalı (branch) oluşturun (git checkout -b feature/YeniOzellik).
+2. Yeni bir özellik dalı (branch) oluşturun (git checkout -b feature/YeniOzellik).
 
-Değişikliklerinizi commit edin (git commit -m 'Yeni özellik eklendi').
+3. Değişikliklerinizi commit edin (git commit -m 'Yeni özellik eklendi').
 
-Dalınızı Push edin (git push origin feature/YeniOzellik).
+4. Dalınızı Push edin (git push origin feature/YeniOzellik).
 
-Bir Pull Request oluşturun.
+5. Bir Pull Request oluşturun.
 
 Developed by Süleyman İbiş
