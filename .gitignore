@@ -1,0 +1,24 @@
+# --- Python Derleme Dosyaları (Gereksiz) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sanal Ortam (Sadece senin bilgisayarına özeldir) ---
+.venv/
+venv/
+env/
+
+# --- PyInstaller Çıktıları (EXE ve Geçici Dosyalar) ---
+# Bunları GitHub'a atma, herkes kendi bilgisayarında build almalı
+build/
+dist/
+*.spec
+
+# --- IDE Ayarları (VS Code / PyCharm) ---
+.vscode/
+.idea/
+
+# --- İşletim Sistemi Kalıntıları ---
+Thumbs.db
+Desktop.ini
+.DS_Store
